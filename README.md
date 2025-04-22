@@ -1,4 +1,4 @@
-# Bigfoot Sightings Visualizations
+# Haunted Places Visualizations
 
 ## Project Overview
 
